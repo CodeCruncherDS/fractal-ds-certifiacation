@@ -11,4 +11,4 @@ and it has been successful in attracting customers from various parts of the wor
 They have tried various strategies such as discounts, promotions, and ads, but these have not yielded the desired results. The management believes that there may be underlying issues that need to be addressed to improve online presence to drive more sales.  
 
 ### The Task:
- Throughout this program, you will be looking into the various aspects of the problem and discover leveraging data science to solve their problem holistically.
+ Throughout this program, We will be looking into the various aspects of the problem and discover leveraging data science to solve their problem holistically.
